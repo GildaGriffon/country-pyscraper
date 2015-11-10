@@ -1,5 +1,5 @@
 # country-pyscraper
-This is a python program for monitoring RSS feeds from news websites and converting them into metrics which are recorded for different countries. Countries may have properties named "Sports," "Military," "Art," "Political Power," "Health and well-being" which are incremented or decremented according news content
+This is a python program for monitoring RSS feeds from news websites and converting them into metrics which are recorded for different countries. Countries may have properties named "Sports," "Military," "Art," "Political Power," "Health and well-being," etc which are incremented or decremented according news content
 
 ##Current project goals
 1. Interpret news articles (which category? good? bad?)
