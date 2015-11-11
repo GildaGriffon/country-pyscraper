@@ -2,6 +2,7 @@
 This is a python program for monitoring RSS feeds from news websites and converting them into metrics which are recorded for different countries. Countries may have properties named "Sports," "Military," "Art," "Political Power," "Health and well-being," etc which are incremented or decremented according news content
 
 ##Current project goals
+###Project goals are pretty wide open and really reflect whatever YOU feel like doing with RSS data!
 1. Interpret news articles (which category? good? bad?)
 2. Store metrics for each country in a database
 3. Automate scraped to run once a day
