@@ -4,6 +4,6 @@ This is a python program for monitoring RSS feeds from news websites and convert
 ##Current project goals
 ###Project goals are pretty wide open and really reflect whatever YOU feel like doing with RSS data!
 1. Interpret news articles (which category? good? bad?)
-2. Store metrics for each country in a database
+2. Store metrics for each country in a database (Local MySQL server pref, JSON?)
 3. Automate scraped to run once a day
 4. Deep search-- enable article retrieval from sports sections, local news sections, etc
