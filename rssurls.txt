@@ -1,0 +1,3 @@
+http://feeds.bbci.co.uk/news/rss.xml
+http://www.nytimes.com/services/xml/rss/nyt/InternationalHome.xml
+http://www.aljazeera.com/xml/rss/all.xml

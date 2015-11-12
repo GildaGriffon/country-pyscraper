@@ -39,8 +39,9 @@ class MyArticle:
     'Base class for each article'
     articleCount=0
 
-    def __init__(self, url, title, date_parsed):
+    def __init__(self, url, feed, title, date_parsed):
         self.url=url
+        self.feed=feed
         self.title=title
         self.date_parsed=date_parsed
         MyArticle.articleCount+=1
