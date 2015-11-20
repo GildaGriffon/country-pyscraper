@@ -23,3 +23,16 @@ for feedObj in feedObjs:
 #Display each article title, these will be interpreted
 for article in articles:
     print article.title
+#SQL stuff
+#con = sqlite3.connect('example.db')
+#c = conn.cursor()
+
+# Create table
+#c.execute('''CREATE TABLE article
+             #(Source text, Type text, Arcticle text)''')
+
+# Insert a row of data
+#c.execute("INSERT INTO article VALUES ('')")
+
+# Save (commit) the changes
+#conn.commit()
